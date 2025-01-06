@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rUaPXmyxjzPM3MvRWaxcnstHzfE734o4VN"
+name = "NUT"
+
+[[TOKENS]]
+issuer = "rUaPXmyxjzPM3MvRWaxcnstHzfE734o4VN"
+currency = "NUT"
+name = "NUT"
+desc = "PNUT on Xrpl"
+icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://google.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://youtube.com"
+type = "website"
+title = "Token Info Dashboard"
+
+[[TOKENS.WEBLINKS]]
+url = "https://twitter.com"
+type = "socialmedia"
