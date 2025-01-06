@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rUaPXmyxjzPM3MvRWaxcnstHzfE734o4VN"
-name = "NUT"
+address = "rHuF1wgdbVPDXE3DiDrxEUp3H3JVpCLcGx"
+name = "HEXRP AI"
 
 [[TOKENS]]
-issuer = "rUaPXmyxjzPM3MvRWaxcnstHzfE734o4VN"
-currency = "NUT"
-name = "NUT"
-desc = "PNUT on Xrpl"
+issuer = "rHuF1wgdbVPDXE3DiDrxEUp3H3JVpCLcGx"
+currency = "HEXRP"
+name = "HEXRP AI"
+desc = "HEXRP AI"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
