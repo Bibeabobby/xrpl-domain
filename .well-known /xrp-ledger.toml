@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "r3zCxvBEzGJ9ZjVoy4ikKiBNya5UHHLXbw"
+address = "rHgBh56KWZWYgji48hzXtRP87aeSFUUvme"
 
 [[TOKENS]]
-issuer = "r3zCxvBEzGJ9ZjVoy4ikKiBNya5UHHLXbw"
-currency = "BBRUV"
-name = "BABY BRUV"
-desc = "BABY BRUV"
+issuer = "rHgBh56KWZWYgji48hzXtRP87aeSFUUvme"
+currency = "444F475300000000000000000000000000000000"
+name = "DOGS THE COMMUNITY"
+desc = "@dogs_community"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
