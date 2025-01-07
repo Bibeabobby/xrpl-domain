@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rHuF1wgdbVPDXE3DiDrxEUp3H3JVpCLcGx"
+address = "r3zCxvBEzGJ9ZjVoy4ikKiBNya5UHHLXbw"
 
 [[TOKENS]]
-issuer = "rHuF1wgdbVPDXE3DiDrxEUp3H3JVpCLcGx"
-currency = "HEXRP"
-name = "HEXRP AI"
-desc = "HEXRP AI"
+issuer = "r3zCxvBEzGJ9ZjVoy4ikKiBNya5UHHLXbw"
+currency = "BBRUV"
+name = "BABY BRUV"
+desc = "BABY BRUV"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
