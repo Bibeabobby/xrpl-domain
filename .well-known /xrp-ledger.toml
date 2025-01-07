@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rHgBh56KWZWYgji48hzXtRP87aeSFUUvme"
+address = "ra4vn27zu6Gt11vGqeWzqehvHmmAWGBqix"
 
 [[TOKENS]]
-issuer = "rHgBh56KWZWYgji48hzXtRP87aeSFUUvme"
-currency = "444F475300000000000000000000000000000000"
-name = "DOGS THE COMMUNITY"
-desc = "@dogs_community"
+issuer = "ra4vn27zu6Gt11vGqeWzqehvHmmAWGBqix"
+currency = "BRUVA"
+name = "BRUV CTO"
+desc = "BRUV CTO"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
