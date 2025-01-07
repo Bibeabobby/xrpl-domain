@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rG36YtgpGPc6HRqmmF4eP2xA5oSMJqz1MP"
-name = "WOJAK XRP"
+address = "rULw6QjQnhhdgBxMsWBx5j1HsRJvRqWXrG"
+name = "GRUBER"
 
 [[TOKENS]]
-issuer = "rG36YtgpGPc6HRqmmF4eP2xA5oSMJqz1MP"
-currency = "WOJAK"
-name = "WOJAK XRP"
+issuer = "rULw6QjQnhhdgBxMsWBx5j1HsRJvRqWXrG"
+currency = "GRUBER"
+name = "GRUBER XRP"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
