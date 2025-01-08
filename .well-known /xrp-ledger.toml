@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rULw6QjQnhhdgBxMsWBx5j1HsRJvRqWXrG"
-name = "GRUBER"
+address = "rQLUgQJENCsennTg9sTvb1eDNBP3HE8Yg5"
+name = "NTXS"
 
 [[TOKENS]]
-issuer = "rULw6QjQnhhdgBxMsWBx5j1HsRJvRqWXrG"
-currency = "GRUBER"
-name = "GRUBER XRP"
+issuer = "rQLUgQJENCsennTg9sTvb1eDNBP3HE8Yg5"
+currency = "NTXS"
+name = "NEXUS TECH"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
