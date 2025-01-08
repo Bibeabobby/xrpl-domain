@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rQLUgQJENCsennTg9sTvb1eDNBP3HE8Yg5"
-name = "NTXS"
+address = "r3ivFn8XeSfbWRCDqHQW2BPDYRJ1yUXYaR"
+name = "MAGA"
 
 [[TOKENS]]
-issuer = "rQLUgQJENCsennTg9sTvb1eDNBP3HE8Yg5"
-currency = "NTXS"
-name = "NEXUS TECH"
-desc = ""
+issuer = "r3ivFn8XeSfbWRCDqHQW2BPDYRJ1yUXYaR"
+currency = "MAGA"
+name = "MAGA"
+desc = "ITS JUST MAGA 25"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
